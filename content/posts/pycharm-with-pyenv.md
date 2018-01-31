@@ -1,7 +1,8 @@
 ---
 title: "Getting PyCharm to work with pyenv local"
 date: 2015-10-07
-draft: true
+tags: ["python", "pycharm", "pyenv"]
+draft: false
 ---
 I write the majority of my code in [Sublime Text][sublime], favouring it over a full blown IDE like [PyCharm][pycharm] or [Eclipse][eclipse]. However, I cannot argue with the debugging abilities that an IDE provides.
 

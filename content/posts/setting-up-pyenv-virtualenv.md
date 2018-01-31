@@ -1,7 +1,8 @@
 ---
 title: "Setting up pyenv and pyenv-virtualenv"
 date: 2015-10-04
-draft: true
+tags: ["python", "pyenv"]
+draft: false
 ---
 I have a confession to make; I've only been using Python virtualenvs for about 6 months (I've been working with Python for ~2 years now).
 

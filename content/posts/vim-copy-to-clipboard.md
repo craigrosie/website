@@ -1,7 +1,8 @@
 ---
 title: "Copy to the clipboard in Vim"
 date: 2015-10-01
-draft: true
+tags: ["vim"]
+draft: false
 ---
 I love using Vim for making quick changes to files when I'm working on the command line. I even use the Vim keyboard shortcuts in Sublime Text, and these days I struggle to use any text editor that does not allow me to enable Vim key bindings.
 

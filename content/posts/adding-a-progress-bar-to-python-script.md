@@ -2,7 +2,7 @@
 title: "Adding a progress bar to your Python script"
 date: 2015-10-12
 tags: ["python", "tqdm"]
-draft: true
+draft: false
 ---
 
 #### The problem?
